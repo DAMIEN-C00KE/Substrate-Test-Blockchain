@@ -2,8 +2,9 @@
 **Custom blockchain created using Substrate SDK**
 - This project is not tested or audited, and should not be used for production purposes. It is in its current form, strictly for educational purposes only
 
-*Node template code can be found at: (Follow the instructions there on running & interacting)*
+*Node template code can be found at:*
 - https://github.com/substrate-developer-hub/substrate-node-template
+- (Follow the instructions there on running & interacting)
 
 *To interact via front-end, refer to:*
 - https://github.com/substrate-developer-hub/substrate-front-end-template
