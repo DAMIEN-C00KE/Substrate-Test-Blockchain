@@ -10,7 +10,7 @@
 - https://github.com/substrate-developer-hub/substrate-front-end-template
 
 *For monitoring of node metrics, I recommend the Substrate development tutorial to help you get up and running:*
-- https://docs.substrate.io/tutorials/build-a-blockchain/authorize-specific-nodes/
+- https://docs.substrate.io/tutorials/build-a-blockchain/monitor-node-metrics/
 
 ***Additional Pallets added which are not included in the base substrate-node-template:***
 - pallet_identity
