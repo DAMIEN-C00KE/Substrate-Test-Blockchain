@@ -18,7 +18,9 @@
 - pallet_nicks
 - custom_pallet (proof_of_existence)
 
-***For overview of additional pallets & dispatchable functions included, please follow the links provided below***
+***For overview of additional pallets & dispatchable functions included, please follow the links provided below:***
+
+
 **pallet_identity**
 - https://docs.rs/pallet-identity/latest/pallet_identity/
 
